@@ -37,6 +37,7 @@ body{
   gap: 15px;
 }
 
+/** Box Styles **/
 .box{
   background-color:#fff;
   padding: 30px;
@@ -120,6 +121,8 @@ body{
 
 
 
+
+/** Media Query **/
 @media screen and (max-width: 1200px) and (min-width: 763px) {
   .container {
     width: 90%;
